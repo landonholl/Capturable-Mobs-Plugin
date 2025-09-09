@@ -1,0 +1,16 @@
+name: CapturableMobsPlugin
+version: 1.0
+main: com.birdsprime.capturablemobsplugin.CapturableMobsPlugin
+api-version: 1.17
+description: Plugin that lets you capture mobs into your inventory.
+commands:
+  mobcage:
+    description: Gives the player a Mob Cage item.
+    usage: /mobcage
+  mobcagerecipe:
+    description: Enable or disable the mob cage recipe.
+    usage: /mobcagerecipe <enable|disable>
+  mobcagemode:
+    description: Switch between reusable and single-use cage modes
+    usage: /mobcagemode <reusable|single-use>
+    permission: capturablemobs.mode

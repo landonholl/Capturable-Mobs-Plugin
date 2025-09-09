@@ -1,0 +1,15 @@
+com\birdsprime\capturablemobsplugin\ThunderStrikeListener.class
+com\birdsprime\capturablemobsplugin\MobCatcherItem.class
+com\birdsprime\capturablemobsplugin\MobReleaseListener.class
+com\birdsprime\capturablemobsplugin\MobCageCommand.class
+com\birdsprime\capturablemobsplugin\MobCaptureListener.class
+com\birdsprime\capturablemobsplugin\MobCageModeCommand.class
+com\birdsprime\capturablemobsplugin\MobSpawnerUseListener$1.class
+com\birdsprime\capturablemobsplugin\CapturableMobsPlugin.class
+com\birdsprime\capturablemobsplugin\MobCageRecipeCommand.class
+com\birdsprime\capturablemobsplugin\MobCageCraftListener.class
+com\birdsprime\capturablemobsplugin\MobAdminGUI.class
+com\birdsprime\capturablemobsplugin\MobPlacePreventionListener.class
+com\birdsprime\capturablemobsplugin\MobAdminTriggerListener.class
+com\birdsprime\capturablemobsplugin\MobAdminCommand.class
+com\birdsprime\capturablemobsplugin\MobSpawnerUseListener.class
