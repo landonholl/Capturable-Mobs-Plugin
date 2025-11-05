@@ -54,9 +54,9 @@ Two server modes control release behavior and placement rules:
 
 | Command | Description | Permission |
 |---|---|---|
-| `/mobcage` | Gives a Mob Cage **only when the recipe is disabled** (player use). | *(none)* |
-| `/mobcagerecipe <enable|disable>` | Toggle the crafting recipe at runtime. | *Op only* |
-| `/mobcagemode <reusable|single-use>` | Switch between cage modes. Applies listeners accordingly. | `capturablemobs.mode` |
+| `/mobcage` | Gives a Mob Cage **only when the recipe is disabled** (player use). | *Op only* |
+| `/mobcagerecipe <enable/disable>` | Toggle the crafting recipe at runtime. | *Op only* |
+| `/mobcagemode <reusable/single-use>` | Switch between cage modes. Applies listeners accordingly. | *Op only* |
 
 Notes:
 - When the recipe is **enabled**, `/mobcage` is intentionally disabled to avoid bypassing progression.
