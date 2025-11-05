@@ -78,7 +78,7 @@ Notes:
 
 ## Installation
 
-1. Drop the compiled JAR into your server’s `plugins/` folder.
+1. Drop the compiled JAR into your server’s `plugins` folder.
 2. Restart/reload the server.
 3. (Optional) Use commands to:
    - `/mobcagerecipe disable` to gate cages behind admin distribution or gameplay events.
