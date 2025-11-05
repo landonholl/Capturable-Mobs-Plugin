@@ -103,6 +103,4 @@ Tip: In reusable mode, to place a filled cage as a block (rather than using snea
 ## License / Credits
 
 - Copyright: All rights reserved.
-- Author: birdsprime
-
-Issues and suggestions are welcome via your normal server/plugin workflow.
+- Author: Landon Holland (birdsprime on curseforge)
