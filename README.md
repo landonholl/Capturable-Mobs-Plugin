@@ -1,6 +1,6 @@
 # Capturable Mobs (Bukkit/Spigot/Paper plugin)
 
-Capture passive or hostile mobs into a **Mob Cage** item, carry them around, and release them later — with two server-configurable modes: **reusable** and **single-use**. Includes a shapeless (keyed) crafting recipe, placement safeguards, clean lore/persistence, and simple admin controls.
+Capture passive or hostile mobs into a **Mob Cage** item, carry them around, and release them later with two server-configurable modes: **reusable** and **single-use**. Includes a shapeless (keyed) crafting recipe, placement safeguards, clean lore/persistence, and simple admin controls.
 
 ---
 
